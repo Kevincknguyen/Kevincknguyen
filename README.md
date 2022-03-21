@@ -1,6 +1,10 @@
 # Kevin Nguyen
 
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+###### Hi there 👋
 
 # Kevin Nguyen
 <!--
