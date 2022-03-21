@@ -11,7 +11,7 @@
 ## Skills 👋
 [website][website] **/**
 
-[website]:google.com
+[website]:https://www.google.com/
 ## Current objectives 👋
 <!--
 **Kevincknguyen/Kevincknguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
