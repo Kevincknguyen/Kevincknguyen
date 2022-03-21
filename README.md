@@ -9,9 +9,9 @@
 ###### Hi there 👋
 
 ## Skills 👋
-[website][website] **/**
+[Linkedin][website] **|**
 
-[website]:https://www.google.com/
+[website]:https://www.linkedin.com/in/kevin-nguyen-363919228/
 ## Current objectives 👋
 <!--
 **Kevincknguyen/Kevincknguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
