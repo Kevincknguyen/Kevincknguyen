@@ -1,6 +1,6 @@
 # Kevin Nguyen
 
-## Hi there 👋
+## About me 👋
 ### Hi there 👋
 ![strawberry](https://user-images.githubusercontent.com/92195852/159234035-52cc37cd-bbb1-4e5b-8594-17bda9a08f26.png)
 
@@ -8,7 +8,9 @@
 ##### Hi there 👋
 ###### Hi there 👋
 
-# Kevin Nguyen
+## Skills 👋
+
+## Current goals 👋
 <!--
 **Kevincknguyen/Kevincknguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
